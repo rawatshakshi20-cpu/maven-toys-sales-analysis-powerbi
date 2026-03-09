@@ -111,11 +111,13 @@ This page focuses on profitability and store-level analysis.
 ## **🚀 Strategic Recommendations**
 Based on the data analysis, the following actions are recommended to optimize profitability and sustain growth:
 
-1. **Optimize Product Mix to Counter Margin Compression:** Since sales growth (31%) is outperforming profit growth (16%), the business should shift marketing focus toward high-margin products like Colorbuds and Electronics to balance the high-volume, low-margin impact of Lego Bricks.
-2. **Targeted Intervention for Guadalajara Store 4:** Conduct an immediate operational audit of the Guadalajara 4 location to investigate its 4.24% growth decline. Analyzing local competition or stock-out patterns in this specific store is critical to reversing the trend.
-3. **Archetype-Specific Inventory Planning:** Tailor inventory based on store location behavior. Expand Electronic offerings in Airport and Commercial hubs while prioritizing Toys and Arts & Crafts in Downtown and Residential areas to match local consumer demand.
-4. **Leverage High-Volume "Traffic Builders":** Use low-margin, high-revenue items like Lego Bricks as "anchor products" in promotional bundles. Pairing them with high-margin accessories (e.g., Electronics or Action Figures) can increase the Average Basket Value and overall profitability.
-5. **Capitalize on Seasonality:** Increase inventory and staffing levels 4-6 weeks ahead of the March and December peaks. Launching loyalty programs or "Early Bird" promotions in February and November can help smooth out the dips seen in late summer.
+**Improve Profit Growth:** Review cost structures and pricing strategies to ensure revenue growth translates into stronger profit growth.
+- **Expand Downtown Stores:** Since Downtown locations generate the majority of revenue, prioritize expansion and inventory allocation to these high-performing areas.
+- **Address Underperforming Stores:** Conduct a performance review for **Guadalajara – Store 4** to identify operational or demand-related issues.
+- **Focus on High-Margin Categories:** Increase promotion and shelf space for **Electronics**, which delivers the highest profit margin.
+- **Optimize Product Portfolio:** Prioritize high-margin products like **Colorbuds** while evaluating pricing or supply costs for low-margin items such as **Lego Bricks**.
+- **Leverage Seasonal Demand:** Align inventory and marketing campaigns with peak sales periods in **March and December**.
+- **Adjust Product Mix by Location:** Optimize product assortment based on location preferences (e.g., Toys in Downtown/Residential, Electronics in Commercial/Airport stores).
 
 ---
 
