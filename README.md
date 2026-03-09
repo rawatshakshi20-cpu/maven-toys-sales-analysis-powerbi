@@ -42,7 +42,7 @@ The data includes over 800,000 granular transaction records within a Sales table
 ---
 
 ## **🧮 DAX Logic**
-I used DAX to create the following key metrics:
+I used DAX to create calculated measures, dynamic visuals and conditional logic the following key metrics:
 * **Total Revenue & Profit:** Accurate totals using row-level math.
 * **YTD Comparison:** Compares 2022 vs. 2023 for the same months (Jan–Sept) to keep the growth numbers fair.
 * **Profit Margin %:** A calculation to show how much of our sales is actual profit.
@@ -52,6 +52,12 @@ I used DAX to create the following key metrics:
 
 ## **🎨 Dashboard Structure**
 
+### **Interactive Elements (Slicers)**
+To allow for dynamic exploration, both pages include:
+* **Year & Month Slicers:** For filtering specific time periods.
+* **Store Location & City Slicers:** To drill down into specific geographic markets.
+* **Product Category Slicer:** To isolate performance by categories (e.g., Electronics, Toys).
+  
 ### **Page 1 – Sales Overview**
 This page provides a high-level overview of sales performance.
 
@@ -84,10 +90,10 @@ This page focuses on profitability and store-level analysis.
 ### **2. Store Location & Performance**
 * **Urban Dominance:** High-density cities like Mexico City and Guadalajara are the primary revenue drivers.
 * **Location Archetype:** Downtown stores are the powerhouse of the business, contributing **~57% of total revenue ($8M)**, significantly outperforming Commercial, Residential, and Airport locations.
-* **Underperformance Alert:** While most stores are growing, **Guadalajara – Store 4** showed a negative growth of **-4.24%**, signalling a need for a localized operational review.
+* **Underperformance Alert:** A small number of stores contribute a large share of revenue, with top stores include locations such as Ciudad de Mexico and Guadalajara, with Ciudad de Mexico 2 generating the highest revenue (~$554K). Most of the top-performing stores also maintain profit margins between ~25%–30%, indicating healthy profitability alongside strong sales. While most stores are growing, **Guadalajara – Store 4** showed a negative growth of **-4.24%**, signalling a need for a localized operational review.
 
 ### **3. Category Dynamics**
-* **Revenue vs. Volume:** Toys drive the highest revenue (~$5M), but Arts & Crafts leads in Units Sold, indicating a high-volume, low-price entry segment.
+* **Revenue vs. Volume:** Toys drive the highest revenue (~$5M), but Arts & Crafts leads in Units Sold, indicating a high-volume, low-price product segment.
 * **Profitability Leader:** Electronics boasts the highest efficiency with a **~45% Profit Margin**, making it the most profitable category per unit sold.
 * **Location-Based Preferences:** Toys are the profit leaders in **Downtown/Residential** areas, whereas Electronics perform best in **Commercial/Airport** locations.
 
