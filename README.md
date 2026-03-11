@@ -22,7 +22,7 @@ Retail businesses need to understand which products, locations, and stores gener
 ---
 
 ### **📂 Data Source**
-Source: Free Sample Dataset Download - Mexico Toy Sales - Maven Analytics | Build Data Skills, Faster
+Source: [Maven Analytics Mexico Toy Sales](https://mavenanalytics.io/data-playground/mexico-toy-sales)
 
 The data includes over 800,000 granular transaction records within a Sales table, linked to a Products table detailing cost and pricing for 35 items, and a Stores table identifying location archetypes like Airports and Downtown hubs. This is supplemented by an Inventory table for tracking current stock levels and a Calendar dimension for time-intelligence analysis across 2022 and 2023. Together, these tables create a unified view of the business, allowing for detailed analysis of profitability, seasonal trends, and store efficiency.
 
@@ -126,3 +126,11 @@ Based on the data analysis, the following actions are recommended to optimize pr
 * **Power Query:** Used for data cleaning, text manipulation (removing prefixes), and table transformation.
 * **DAX (Data Analysis Expressions):** Used for creating complex business metrics and time-intelligence calculations.
 * **GitHub:** Used for project documentation and version control.
+
+  ## 📊 Dashboard Visuals
+
+### Page 1: Sales Overview
+
+
+### Page 2: Product & Store Performance
+![Product Performance](your_image_name_2.png)
