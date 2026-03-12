@@ -29,7 +29,7 @@ The data includes over 800,000 granular transaction records within a Sales table
 ---
 
 ## **🛠️ Data Preparation (Power Query)**
-* **Text Transformation:** Cleaned the "City" column by removing redundant "Maven Toys" prefixes to improve visual clarity.
+* **Text Transformation:** Cleaned the "Store Name" column by removing redundant "Maven Toys" prefixes to improve visual clarity.
 * **Data Validation:** Audited the dataset for nulls and duplicates, ensuring 100% data integrity.
 * **Feature Engineering:** Built a custom Calendar Table, extracting Year, Quarter, Month Name, and Month Number to support time-series analysis.
 
